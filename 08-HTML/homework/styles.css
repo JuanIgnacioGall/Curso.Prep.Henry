@@ -1,9 +1,22 @@
 h1 {
     color:red;
+    text-align: center;
+}
+
+
+h3 {
+    color: greenyellow;
+    text-align: center;
+}
+
+h4 {
+    color: greenyellow;
+    text-align: center;
 }
 
 img {
  width: 400px;
+ text-align: center;
 }
 
 #thirdDiv {
@@ -12,10 +25,28 @@ img {
     background-color: yellow;
     padding: 50px;
     border: 8px solid gray;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 50px;
 }
 
 #spanId {
     font-size: 18px;
     margin: 50px;
+    color: darkmagenta;
+    text-align: center;
+    margin-left: 485px;
 
 }
+
+body {
+    height: 900px;
+  background-image: url("https://i.blogs.es/8cb70e/sushi/840_560.jpg");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+    
+  }
+
+
+
